@@ -5,5 +5,7 @@ This GitHub provides the numerical data and codes to reproduce the results and f
 For any question, please contact: bnmorillon@gmail.com
 
 Files are shared to promote discussions, exchanges, collaborations. Don't hesitate to contact us!
-  bnmorillon@gmail.com
-  ins-amu.fr/dcp
+
+bnmorillon@gmail.com
+
+ins-amu.fr/dcp
